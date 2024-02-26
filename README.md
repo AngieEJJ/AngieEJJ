@@ -2,8 +2,8 @@
 
 ## Contact
 <p>
-  <a href="mailto:eunjin.jeong.5115@gmail.com" target="_blank"><img src="https://img.shields.io/badge/eunjin.jeong.5115@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://velog.io/@dmswls5115/posts" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="mailto:eunjin.jeong.5115@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@dmswls5115/posts" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </p>
 
 
@@ -26,4 +26,3 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>  
  
 </p>
-              
