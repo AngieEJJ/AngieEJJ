@@ -26,22 +26,4 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>  
  
 </p>
-
-
-# 프로젝트 경험
-
-## 팀 프로젝트
-### 공용냉장고 관리 앱 (우리빙고) 기여도 40%
-#### https://play.google.com/추가
-#### https://github.com/AngieEJJ/project_super.team
-
-- 설명
-- 설명
-- 설명
-- 설명
-
-상태관리
-- provider
-
-
               
